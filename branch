@@ -1,0 +1,2 @@
+-to create new branch and switching to it directly :   git checkout -B branchName
+- to push from new branch:  git push -u origin branchName
